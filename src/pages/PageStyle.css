@@ -1,0 +1,25 @@
+.container-fluid {
+  text-align: center;
+}
+
+.row {
+  margin-top: 5px;
+  text-align: center;
+  align-items: center;
+}
+
+.col-sm {
+  height: 40vh;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.col-sm:hover {
+  background: #e1e1e1;
+}
+
+.form-inline .form-control {
+  width: 500px;
+}
