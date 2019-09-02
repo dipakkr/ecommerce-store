@@ -10,7 +10,7 @@ const NavBar = ({ currentUser }) => {
     <nav className="navbar navbar-dark bg-dark">
       <a className="navbar-brand" href="/">
         {' '}
-        FlipKart{' '}
+        YourCart {' '}
       </a>
 
       <Input className="input-search" placeholder="Search Items" />
